@@ -28,7 +28,7 @@ Anrösten:
 - Einen Schuss Fenchelsamen
 - Einen Schuss Echter Anis
 
-Zusätzliche benötigt:
+Zusätzlich benötigt:
 
 - 600 Gramm Roggenmehl Type >= 900
 - 19 Gramm Salz

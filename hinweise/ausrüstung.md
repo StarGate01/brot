@@ -25,5 +25,6 @@ Nicht alle diese Dinge werden unbedigt benötigt, aber es ist praktisch wann man
 - Laugenfestes Silikonbackblech
 - Laugenfeste Schutzhandschuhe
 - Glasschüssel
+- Schaumlöffel
 
 - Leere Marmeladengläser
