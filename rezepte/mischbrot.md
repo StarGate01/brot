@@ -1,5 +1,9 @@
 # Roggenmischbrot
 
+Das Roggenmischbrot ist ein solider Allrounder und ein alltagstaugliches Grundnahrungsmittel. Es hält lange frisch und auch lange satt. Die Körner lockern die Textur etwas auf und die geröstete Würzung lässt das Brot durchaus auch einfach für sich alleine stehen. Besser mit ein bisschen Butter oder Speck.
+
+## Beschreibung
+
 Dieses Brot besteht zm größten Teil aus Roggen, hat aber noch einen Teil Weizen drin um den Teig elastischer zu Machen. Der komplette Weizen kommt in form von Weizensauerteig hinzu, kein frisches Weizenmehl wird mehr in den Teig gegeben.
 
 Körner passen gut in dieses Brot, diese sollte man aber vorkochen damit sie vollständig hydriert und etwas weicher sind. Ansonsten ziehen sie Wasser aus dem Brot wieder hinaus. Die geschroteten Leinsamen bilden beim Kochen einen Schleim, der das Brot länger frisch hält und die Konsistenz verbessert.
@@ -51,6 +55,10 @@ Den Laib nimmt man vorsichtig von der Arbeitsfläche - hier zeigt sich nur ob de
 
 Der Laib geht nun ca 1-2 Stunden je nach Raumtemperatur in der Küche. Er kann recht groß werden und das Fassungsvermögen des Gärkorbes auf die Probe stellen.
 
-In den auf 250 °C vorgeheizen Ofen wird der laib auf ein Blech gestürzt, und eingeschoben. Währen dem Vorheizen stellt man unten in den Ofen eine Feuerfeste Schüssel mit Wasser, um Dampf im POfen zu erzeugen. Dann wird das Brot erst 15 Minuten bei 250 °C, und dann 40 Minuten bei 200 °C gebacken, jeweilst mit Ober/Unterhitze und ohne Umluft.
+In den auf 250 °C vorgeheizen Ofen wird der Laib auf ein Blech gestürzt, und eingeschoben. Währen dem Vorheizen stellt man unten in den Ofen eine Feuerfeste Schüssel mit Wasser, um Dampf im POfen zu erzeugen. Dann wird das Brot erst 15 Minuten bei 250 °C, und dann 40 Minuten bei 200 °C gebacken, jeweils mit Ober/Unterhitze und ohne Umluft.
 
-Nach dem Backen stellt man das Brot auf einen Rost zum Abkühlen. Roggenbrot sollte abkählen bevor man es isst, dann ist es fester und gesünder.
+Nach dem Backen stellt man das Brot auf einen Rost zum Abkühlen. Roggenbrot sollte abkählen bevor man es isst, dann ist es fester und gesünder. Das Trennmehl auf dem Brot sollte so gut wie möglisch mit einer Bürste abgebürstet werden um Schimmel vorzubeugen.
+
+## Lagerung
+
+Lose eingewickelt, nicht luftdicht. Es sollte ein kanppe Woche halten. Viertelweise lässt es sich wunderbar einfrieren.

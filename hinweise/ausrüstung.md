@@ -21,5 +21,9 @@ Nicht alle diese Dinge werden unbedigt benötigt, aber es ist praktisch wann man
 - Gärkorb
 - Trockentücher
 - Kornmühle
+- Wurzelbürste
+- Laugenfestes Silikonbackblech
+- Laugenfeste Schutzhandschuhe
+- Glasschüssel
 
 - Leere Marmeladengläser

@@ -21,7 +21,9 @@ Salz sollt immer <2% der Gesamtmehlmenge sein. Ich nehme einfach immer 19 Gramm.
 
 ## Gewürze
 
-- Salz
+- Feines Salz
+- Grobes Brezensalz
+- Natronlauge, NaOH
 - Koriandersamen
 - Fenchelsamen
 - Kümmel
