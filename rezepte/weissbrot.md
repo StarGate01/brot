@@ -10,9 +10,9 @@ Am Tag davor Ansetzen:
 
 - Circa ein Pfund frischer Weizensauerteig
 
-Zusätzliche benötigt:
+Zusätzlich benötigt:
 
-- 600 Gramm Weizenvollkornmehl Type 550
+- 600 Gramm Weizenmehl Type 550
 - 19 Gramm Salz
 - Wasser
 
