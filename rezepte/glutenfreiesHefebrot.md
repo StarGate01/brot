@@ -4,10 +4,12 @@
 - 1200ml Wasser (lauwarm)
 - 3 Pck Hefe
 - 400g Teff-Mehl
-- 300g Speisestärke
+- 100g Speisestärke
 - 150g Reismehl
 - 75g Fiber
-- 100g Haferflocken
+- 150g Haferflocken
 - 100g Kartoffelmehl
 - 3 geh. TL Brotgewürz
 - 16g Salz
+- 200g Biertreber
+- 100g Leinsamen
